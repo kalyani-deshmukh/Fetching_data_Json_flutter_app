@@ -1,0 +1,29 @@
+{
+    "list": [
+      {
+        "title": "wifi available",
+        "leading": "wifi",
+        "trailing": true
+      },
+      {
+        "title": "Nice spa",
+        "leading": "spa",
+        "trailing": false
+      },
+      {
+        "title": "Dry cleaning",
+        "leading": "dry_cleaning",
+        "trailing": false
+      },
+      {
+        "title": "Valet parking",
+        "leading": "local_parking",
+        "trailing": true
+      },
+      {
+        "title": "Room Service",
+        "leading": "room_service",
+        "trailing": true
+      }
+    ]
+}
